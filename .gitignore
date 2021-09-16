@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+venv
+vvsa.egg-info
+vvsa/__main__.py
+vvsa/notebook/.*
